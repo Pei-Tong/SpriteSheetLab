@@ -25,7 +25,7 @@ A 2D game project developed with React Native, demonstrating the integration of 
 - Expo: Development environment and toolchain
 
 ## Demo
-![Demo GIF](SpriteSheetLab.gif)
+![Demo GIF](SpriteSheet_Demo.gif)
 
 ## Installation Guide
 1. Clone the repository
