@@ -24,6 +24,9 @@ A 2D game project developed with React Native, demonstrating the integration of 
 - rn-sprite-sheet: Sprite animation handler
 - Expo: Development environment and toolchain
 
+## Demo
+![Demo GIF](SpriteSheetLab.gif)
+
 ## Installation Guide
 1. Clone the repository
 ```bash
